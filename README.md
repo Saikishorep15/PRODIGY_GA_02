@@ -1,4 +1,4 @@
-🎨 AI Image Generator Using Stable Diffusion
+<h1>🎨 AI Image Generator Using Stable Diffusion</h1>
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/267db9d2-b25f-493d-8a09-7962a5559dfa" />
 
 An AI-powered web application that generates high-quality images from natural language text prompts using Stable Diffusion v1.5 and Hugging Face Diffusers. The application is built with Python and Streamlit, providing a clean and interactive interface for real-time AI image generation.
